@@ -43,7 +43,7 @@ function Contact() {
 
           <button
             type="submit"
-            className="bg-button text-text-primary-dark py-2 px-4 rounded hover:bg-button-hover transition duration-200 mt-4"
+            className="bg-button hover:cursor-pointer text-text-primary-dark py-2 px-4 rounded hover:bg-button-hover transition duration-200 mt-4"
           >
             Submit
           </button>
