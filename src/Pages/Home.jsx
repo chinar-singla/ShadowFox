@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="bg-primary-dark w-full min-h-screen flex flex-col">
       <NavBar />
-      <main className="flex-1 font-mono flex flex-col lg:flex-row items-center justify-center px-6 py-12 gap-12">
+      <main className="flex-1 font-mono flex flex-col-reverse lg:flex-row items-center justify-center px-6 py-12 gap-12">
         
         {/* Left Section */}
         <div className="w-full lg:w-1/2 flex justify-center">

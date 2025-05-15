@@ -20,7 +20,7 @@ function CaseStudies() {
           </p>
 
           {/* Content Grid */}
-          <div className="mt-10 w-full flex flex-col lg:flex-row items-center justify-center gap-10 px-6">
+          <div className="mt-10 w-full flex flex-col-reverse lg:flex-row items-center justify-center gap-10 px-6">
             {/* Text Card */}
             <div className="p-8 flex flex-col items-start max-w-md w-full">
               <div className="text-2xl font-bold mb-2 text-text-primary-light">Developing a Blog Platform</div>
@@ -44,7 +44,7 @@ function CaseStudies() {
             </div>
           </div>
 
-          <div className="mt-10 w-full flex flex-col lg:flex-row-reverse items-center justify-center gap-10 px-6">
+          <div className="mt-10 w-full flex flex-col-reverse lg:flex-row-reverse items-center justify-center gap-10 px-6">
             {/* Text Card */}
             <div className="p-8 flex flex-col items-start max-w-md w-full">
               <div className="text-2xl font-bold mb-2 text-text-primary-light">Chat Application</div>
@@ -68,7 +68,7 @@ function CaseStudies() {
             </div>
           </div>
 
-          <div className="mt-10 w-full flex flex-col lg:flex-row items-center justify-center gap-10 px-6">
+          <div className="mt-10 w-full flex flex-col-reverse lg:flex-row items-center justify-center gap-10 px-6">
             {/* Text Card */}
             <div className="p-8 flex flex-col items-start max-w-md w-full">
               <div className="text-2xl font-bold mb-2 text-text-primary-light">Redesigning a Small Business</div>
