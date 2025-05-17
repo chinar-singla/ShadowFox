@@ -7,7 +7,7 @@ function Contact() {
       <div className="flex flex-col items-center px-4 text-center pt-10">
         <h2 className="text-text-primary-dark text-4xl font-bold">Get In Touch</h2>
         <p className="text-text-secondary-dark max-w-2xl mt-4 text-sm sm:text-base">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          I'm always excited to connect with like-minded individuals, collaborators, or clients. Whether you have a question, an opportunity, or just want to say hi, feel free to drop a message!
         </p>
 
         <form className="p-6 sm:p-10 w-full max-w-xl flex flex-col gap-4">
@@ -17,7 +17,7 @@ function Contact() {
               type="email"
               id="email"
               className="h-10 bg-bg-input px-3 rounded"
-              placeholder="Please enter your email"
+              placeholder="chinarsingla.dev@gmail.com"
             />
           </div>
 
@@ -27,7 +27,7 @@ function Contact() {
               type="tel"
               id="mobile"
               className="h-10 bg-bg-input px-3 rounded"
-              placeholder="Enter your mobile number"
+              placeholder="+91 98765 43210"
             />
           </div>
 
@@ -37,7 +37,7 @@ function Contact() {
               id="message"
               rows="4"
               className="bg-bg-input px-3 py-2 rounded"
-              placeholder="Enter your message"
+              placeholder="I'd love to hear from you. How can I help?"
             />
           </div>
 

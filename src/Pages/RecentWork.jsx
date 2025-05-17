@@ -6,13 +6,13 @@ function RecentWork() {
       img: "/images/work1.png",
       title: "Smart Health Tracker ",
       description:
-        "Labore et dolore magna aliqua. Sed do eiusmod tempor incididunt ut labore et dolore magna.",
+        "A full-stack web app designed for hospitals to track patient data, manage appointments, and monitor vitals. Built using MERN stack with a focus on OPD queue management and bed availability.",
     },
     {
       img: "/images/work2.png",
       title: "E-Commerce Platform",
       description:
-        "Rempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt u",
+        "A scalable and responsive e-commerce website with product listings, cart system, and payment gateway integration. Developed using React, Node.js, Express, and MongoDB.",
     },
   ];
 
@@ -22,8 +22,9 @@ function RecentWork() {
       <div className="flex flex-col w-full items-center justify-center px-4 text-center">
         <h2 className="mt-8 text-4xl font-bold text-text-primary-light">Recent Work</h2>
         <p className="text-text-secondary-light max-w-2xl mt-4 text-sm sm:text-base">
-          Solving user & business problems since last 15+ years. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Crafting digital solutions that solve real-world problems with clean code and user-focused design. Here are some of the projects I've worked on recently.
         </p>
+
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto px-4 mt-10">
